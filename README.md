@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi,I’m rickltt!
+- 🌱 I'm a graduate student at GDUT.
+- 👀 I'm currently learning NLP and C++.
+- 👯 I’m looking to collaborate on everyone.
+- 📫 How to reach me:ltt_rick@163.com
