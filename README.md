@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 👋 Hi,I’m rickltt!
 - 🌱 I'm a graduate student at GDUT.
-- 👀 I'm currently learning NLP and C++.
+- 👀 I'm currently learning NAS(Neural Architecture Search) and C++/Linux.
 - 👯 I’m looking to collaborate on everyone.
 - 📫 How to reach me:ltt_rick@163.com
