@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👋 Hi,I’m rickltt!
 - 🌱 I'm a graduate student at GDUT and will graduate in June 30, 2024.
 - 👀 I'm currently learning Natural Language Processing, especially Information Extraction (IE) and Large Languages Models (LLMs).
-- 👯 I’m looking to collaborate on everyone.
-- 📫 How to reach me:ltt_rick@163.com
+- 🔭 I’m currently working on [IMSL Shenzhen Key Lab](http://www.imsl.org.cn).
+- 📫 How to reach me:tongtao.ling@imsl.org.cn
