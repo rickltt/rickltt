@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi,I’m rickltt!
-- 🌱 I'm a PhD student at Central South University.
+- 🌱 I received my master's degree in Electronic Information from Guangdong University of Technology in June 2024.
 - 👀 I'm currently learning Large Languages Models (LLMs), especially LLM-based agent.
-- 📫 How to reach me: ltt\_rick@163.com
+- 📫 How to reach me: lingtongtao@gmail.com
 <!--
 - 🔭 I’m currently working on [IMSL Shenzhen Key Lab](http://www.imsl.org.cn).
 -->
