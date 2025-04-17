@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi,I’m rickltt!
-- 🌱 I received my master's degree in Electronic Information from Guangdong University of Technology in June 2024.
-- 👀 I'm currently focusing on large languages models (LLMs), automatic speech recognition (ASR), information extraction, etc.
-- 🔭 I’m currently working on [IMSL Shenzhen Key Lab](http://www.imsl.org.cn). 
-- 📫 How to reach me: tongtao.ling@imsl.org.cn
+- 👋 Hi,I’m Tongtao Ling!
+- 🌱 I’m a PhD candidate in Southern University of Science and Technology.
+- 👀 I'm currently focusing on audio/speech processing, speech LLMs, etc.
+- 📫 How to reach me: lingtt@mail.sustech.edu.cn
 
