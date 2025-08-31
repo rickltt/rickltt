@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👋 Hi,I’m Tongtao Ling!
 - 🌱 I’m a PhD student in Southern University of Science and Technology.
 - 👀 I'm currently focusing on audio/speech processing, speech LLMs, etc.
-- 📫 How to reach me: lingtt@mail.sustech.edu.cn
+- 📫 How to reach me: lingtt2025@mail.sustech.edu.cn
 
